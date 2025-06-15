@@ -69,3 +69,73 @@ NEUROSENSE translates motor imagery from 64-channel EEG signals into real-time p
 </p>
 
 ### 🎯 Model Performance:
+---
+
+# 🚀 Key Features:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐%20Cloud%20Native-AWS%20|%20Azure%20|%20GCP-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠%2064%20Channel-EEG%20Processing-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20Real%20Time-%3C100ms%20Response-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖%20Ensemble%20ML-SVM%20+%20LDA%20+%20GB-orange?style=for-the-badge"/>
+</p>
+
+### 🎯 Innovation Highlights:
+- **🌍 Global Accessibility**: Cloud-based deployment for worldwide reach
+- **💰 Cost Effective**: Eliminates expensive edge hardware dependency  
+- **🏥 Medical Grade**: Clinical-ready EEG integration
+- **🔧 Expandable**: Ready for robotics, AR/VR, haptics integration
+
+---
+
+# 📈 GitHub Analytics:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asma-Khanam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asma-Khanam&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Khanam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+# 🏆 Project Impact:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Target%20Users-3M+%20People%20with%20Limb%20Loss-red?style=for-the-badge&logo=heart"/>
+  <img src="https://img.shields.io/badge/Geographic%20Focus-India%20&%20Global-green?style=for-the-badge&logo=world"/>
+  <img src="https://img.shields.io/badge/Technology%20Type-Assistive%20BCI-blue?style=for-the-badge&logo=accessibility"/>
+</p>
+
+### 🌟 Vision Statement:
+> *"Restoring natural, intuitive mobility through the power of thought - transforming lives one neural signal at a time."*
+
+---
+
+### 🔝 Top Repository Contribution:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Asma-Khanam&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# 🚀 Quick Start:
+
+```bash
+# Clone the NEUROSENSE repository
+git clone https://github.com/Asma-Khanam/Zeka-Hackprix.git
+cd NEUROSENSE
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Train the ensemble model
+python train2.py --subjects 109 --channels 64
+
+# Test model performance  
+python test2.py --model ./models/bci_best_model.pkl
+
+# Launch real-time BCI interface
+python simu_or_real.py --mode real --headset zeeshan
