@@ -97,4 +97,4 @@
 
 ---
 
-# 📁 Project Architecture:
+<!-- Proudly created by Team Zeka-Hackprix for NEUROSENSE BCI Project -->2 / 2
